@@ -1,0 +1,18 @@
+C:\Users\swe2016s\Desktop\C#\WebClient\bin\WebClient.dll.config
+C:\Users\swe2016s\Desktop\C#\WebClient\bin\WebClient.dll
+C:\Users\swe2016s\Desktop\C#\WebClient\bin\WebClient.pdb
+C:\Users\swe2016s\Desktop\C#\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\swe2016s\Desktop\C#\WebClient\obj\Debug\WebClient.dll
+C:\Users\swe2016s\Desktop\C#\WebClient\obj\Debug\WebClient.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM - Kopie\WebClient\bin\WebClient.dll.config
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM - Kopie\WebClient\bin\WebClient.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM - Kopie\WebClient\bin\WebClient.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM - Kopie\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM - Kopie\WebClient\obj\Debug\WebClient.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM - Kopie\WebClient\obj\Debug\WebClient.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\WebClient\bin\WebClient.dll.config
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\WebClient\bin\WebClient.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\WebClient\bin\WebClient.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\WebClient\obj\Debug\WebClient.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\WebClient\obj\Debug\WebClient.pdb

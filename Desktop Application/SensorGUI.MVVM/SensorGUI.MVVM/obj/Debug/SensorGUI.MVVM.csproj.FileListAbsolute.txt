@@ -1,0 +1,341 @@
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.config
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.pdb
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WPFToolkit.dll
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\Views\CancelWindow.g.cs
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\Views\SaveWindow.g.cs
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.g.cs
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.cache
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.lref
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.baml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\Views\CancelWindow.baml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\Views\MainWindow.baml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\Views\SaveWindow.baml
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.g.resources
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.Properties.Resources.resources
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csproj.GenerateResource.Cache
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe
+C:\Users\Marcel\documents\visual studio 2015\Projects\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.config
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WPFToolkit.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.g.cs
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.cache
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.lref
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.baml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.g.resources
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.Properties.Resources.resources
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csproj.GenerateResource.Cache
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.g.cs
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.g.cs
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.g.cs
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.baml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.baml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.baml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.g.cs
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.baml
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Markers.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\Users\Marcel\Documents\SWE\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Parser.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.config
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.pdb
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Markers.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Parser.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WPFToolkit.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.cache
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.lref
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.baml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.baml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.baml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.baml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.baml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.g.resources
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.Properties.Resources.resources
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csproj.GenerateResource.Cache
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.pdb
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Owin.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_Content.g.cs
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcel\Documents\UNI\SWEP2016\Application\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csprojResolveAssemblyReference.cache
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.config
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Maps.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Markers.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\DynamicDataDisplay.Markers2.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Owin.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Parser.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WpfAnimatedGif.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WPFToolkit.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\FontAwesome.WPF.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Sparrow.Chart.Wpf.40.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WpfAnimatedGif.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_Content.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.cache
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.lref
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.baml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.baml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.baml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.baml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.baml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.g.resources
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.Properties.Resources.resources
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csproj.GenerateResource.Cache
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csprojResolveAssemblyReference.cache
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Web.Cors.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Cors.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Extensions.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Features.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.OptionsModel.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Cors.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Extensions.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Features.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.OptionsModel.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\swe2016s\Desktop\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.config
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.manifest
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.application
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.pdb
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Cors.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Abstractions.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Extensions.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Features.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.OptionsModel.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.WebEncoders.Core.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WebSocket4Net.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WpfAnimatedGif.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WPFToolkit.dll
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Cors.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Abstractions.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Extensions.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.AspNet.Http.Features.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.OptionsModel.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Extensions.WebEncoders.Core.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\MvvmDialogs.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\WpfAnimatedGif.xml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.g.cs
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.g.cs
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.g.cs
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.g.cs
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.g.cs
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.cache
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM_MarkupCompile.lref
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\App.baml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\CancelWindow.baml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\ExportWindow.baml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\MainWindow.baml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\View\Views\SaveWindow.baml
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.g.resources
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.Properties.Resources.resources
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe.manifest
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.application
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.pdb
+C:\Users\student\Desktop\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Unwichtig\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\bin\Debug\SensorGUI.MVVM.exe.config
+C:\Users\student\Desktop\Unwichtig\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.exe
+C:\Users\student\Desktop\Unwichtig\SWEp\05.08 SensorGUI.MVVM\SensorGUI.MVVM\SensorGUI.MVVM\obj\Debug\SensorGUI.MVVM.pdb

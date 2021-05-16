@@ -1,0 +1,214 @@
+<html>
+    <head>
+      <!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
+        <link type="text/css" rel="stylesheet" href="css/style2.css" media="screen,projection" />
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+    <body>
+        <div class="row">
+            <div class=" s12 fullwidth disabled">
+              <ul class="tabs fullwidth disabled">
+                <li id="loginTabButton" class="tab col s3 color1"><a id="loginTabButtonAnchor" href="#login">LOGIN</a></li>
+                <li id="triggerTabButton" class="tab col s3 color1"><a id="triggerTabButtonAnchor" href="#trigger" >TRIGGER</a></li>
+                <li id="wayTimeTabButton" class="tab col s3 color1"><a id="wayTimeTabButtonAnchor" href="#waytime">WAY-TIME</a></li>
+                <li id="savedTabButton" class="tab col s3 color1"><a id="savedTabButtonAnchor" href="#saved">SAVED</a></liid>
+                <li id="saveTabButton" class="tab col s3 color1"><a id="saveTabButtonAnchor" href="#save">SAVE</a></li>
+              </ul>
+            </div>
+            <div id="login" class="col s12">
+         <!--###############################################################################
+        //#####################################LOGIN#######################################
+        //##############################################################################-->
+                <div class="logoWrapper">
+                    <object data="assets/images/logo.svg" type="image/svg+xml"></object>
+                </div>
+
+                <div class="inputbox">
+                    <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s12 form-group">
+                                    <input id="codefield" type="text" class="validate white-text">
+                                    <label for="codefield">Link-Code</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12 form-group">
+                                    <input id="namefield" type="text" class="validate  white-text">
+                                    <label for="namefield">Name</label>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- Trigg Button -->
+                <div>
+                    <div class="liveBottom">
+                        <a id="connectButton" class=" tab waves-effect waves-light btn color3 fullwidth trigger roundedTop colorHover">Verbinden</a>
+                        <a class="btn light-blue fullwidth statusBar disabled centerText">
+                            <i class="material-icons left watcher"></i><div class="nameArea"></div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div id="trigger" class="col s12">
+            <!--###############################################################################
+            //#####################################TRIGGER#######################################
+            //##############################################################################-->
+             <div id="live">
+                 <div class="container">
+                     <!-- X Messung -->
+                     <div class="row">
+                         <div class="liveValueBox rounded s12 color3">
+                             <div class="liveValueCoordinate rounded color1">
+                                 <h4> I </h4>
+                             </div>
+                             <div id="liveValueValue1" class="liveValueValue ">
+                                 No sensor
+                             </div>
+                         </div>
+                     </div>
+                     <!-- Y Messung -->
+                     <div class="row">
+                         <div class="liveValueBox rounded s12 color3">
+                             <div class="liveValueCoordinate rounded color1">
+                                 <h4> II </h4>
+                             </div>
+                             <div id="liveValueValue2" class="liveValueValue">
+                                 No sensor
+                             </div>
+                         </div>
+                     </div>
+                     <!-- Z Messung -->
+                     <div class="row">
+                         <div class="liveValueBox rounded s12 color3">
+                             <div class="liveValueCoordinate rounded color1">
+                                 <h4> III </h4>
+                             </div>
+                             <div id="liveValueValue3" class="liveValueValue ">
+                                 No sensor
+                             </div>
+                         </div>
+                     </div>
+                     <div class="row">
+                         <div class="col s6">
+                             <a id="startMeasurementSeries" class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                                 <i class="material-icons ">play_arrow</i>Starten
+                             </a>
+
+                             <a id="saveMeasurementSeries" class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                                 <i class="material-icons ">save</i>Beenden
+                             </a>
+                         </div>
+                         
+                         <!--<div class="col s6">
+                             <a id="cancelMeasurementSeries"  class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                                 <i class="material-icons ">cancel</i>Abbrechen
+                             </a>
+                         </div>-->
+                      
+                         <div class="col s6">
+                             <a id="calibrateRepeatingAccuracyMeasurementSeries" class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                                 <i class="material-icons ">adjust</i>kalibrieren
+                             </a>
+                         </div>
+                     </div>
+                     <div class="row">
+                         <!--LETZE DREI MESSWERTE-->
+                     </div>
+                 </div>    
+                       <!-- Trigg Button -->
+                <div class="liveBottom">
+                      <a id="triggerButton" class=" tab waves-effect waves-light btn color3 fullwidth trigger roundedTop colorHover">Trigger</a>
+                      <a class="btn light-blue fullwidth statusBar disabled centerText"><i class="material-icons left watcher"></i> <div class="nameArea"></div>
+                      </a>
+                  </div>
+              </div>
+
+            </div>
+            <div id="waytime" class="col s12">
+            <!--###############################################################################
+            //#####################################WAY_TIME####################################
+            //##############################################################################-->
+            <!-- LIVE TAB VIEW 2-->
+              <div id="live">
+                <div class="container">
+          <!-- Z Messung -->
+                <div class="row">
+                    <div class="liveValueBox rounded s12 color3">
+                        <div class="liveValueCoordinate rounded color1">
+                            <h4> Weg </h4>
+                        </div>
+                        <div id="liveValueValueForWTM" class="liveValueValue ">
+                            0.000
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                  <div class="liveValueBox rounded s12 color3">
+                    <div class="liveValueCoordinate rounded color1">
+                      <h4> Zeit </h4>
+                    </div>
+                    <div id="time" class="liveValueValue">
+                      0.000 sek
+                    </div>
+                  </div>
+                </div>
+                  <div class="row">
+                    <div class="col s6">
+                        <a id="startWayTimeMeasurementSeries" class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                            <i class="material-icons ">play_arrow</i>Starten
+                        </a>
+                        
+                        <a id="stopWayTimeMeasurementSeries" class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                            <i class="material-icons ">save</i>Beenden
+                        </a>
+                    </div>
+                    <div class="col s6">
+                        <a id="calibrateWayTimeMeasurementSeries" class="waves-effect waves-light btn colorAccent fullwidth optionBtn rounded centerText colorHover">
+                            <i class="material-icons ">adjust</i>Kalibrieren
+                        </a>
+                    </div>
+                  </div>
+          <!-- Trigg Button -->
+                </div>
+                <div class="liveBottom">
+                      
+                      <a class="btn light-blue fullwidth statusBar disabled centerText"><i class="material-icons left watcher"></i> <div class="nameArea"></div>
+                      </a>
+                  </div>
+              </div>
+            </div>
+            <div id="saved" class="col s12">
+            
+            
+            </div>
+            <div id="save" class="col s12">
+            
+            
+            </div>
+          </div>
+        <!-- Modal Structure -->
+        <div id="modal" class="modal">
+            <div class="modal-content">
+                <center><h4>Warte auf Konfiguration</h4></center>
+                <p>
+                    <center><img src="assets/gifs/ring.gif" alt="HTML5 Icon" style="width:128px;height:128px;"></center>
+                </p>
+                <center><h6>Nach dem Laden einer Koniguration in der Desktop-Anwendung, wird diese App automatisch fortgesetzt</h6></center>
+            </div>
+        </div>
+        <!--Import jQuery before materialize.js-->
+          <script type="text/javascript" src="js/jquery.js"></script>
+          <script type="text/javascript" src="js/materialize.min.js"></script>
+          <script type="text/javascript" src="socketio/socket.io-client-master/socket.io.js"></script> 
+          <script type="text/javascript" src="socketio/appSocket.js"></script>
+    </body>
+</html>
